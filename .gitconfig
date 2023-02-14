@@ -1,0 +1,5 @@
+[user]
+	name = Simon Thurston
+	email = simongethurston@gmail.com
+[push]
+	autoSetupRemote = true
