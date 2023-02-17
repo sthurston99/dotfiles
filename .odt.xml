@@ -4,11 +4,11 @@
       <Language ID="en-us" />
     </Product>
     <Product ID="VisioProRetail" MSICondition="VisPro,VisProR">
-			<Language ID="en-us"/>
-		</Product>
-		<Product ID="ProjectProRetail" MSICondition="PrjPro,PrjProR">
-			<Language ID="en-us"/>
-		</Product>
+      <Language ID="en-us"/>
+    </Product>
+    <Product ID="ProjectProRetail" MSICondition="PrjPro,PrjProR">
+      <Language ID="en-us"/>
+    </Product>
   </Add>
   <Updates Enabled="TRUE" Channel="Current" />
   <Display Level="None" AcceptEULA="TRUE" />
